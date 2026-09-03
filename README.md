@@ -15,7 +15,7 @@ para los documentos de baja confianza.
 
 ## 1. Configurar Supabase
 
-1. Crea un proyecto en [supabase.com](https://supabase.com).
+1. Crea tu proyecto en [supabase.com](https://supabase.com).
 2. En **SQL Editor**, ejecuta el contenido de [`supabase/schema.sql`](./supabase/schema.sql).
    Esto crea:
    - Tablas `companies`, `profiles`, `invoices`, `invoice_items`.
